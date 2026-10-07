@@ -47,3 +47,4 @@ Proyecto del Trabajo Práctico N.º 2 para integrar PHP, JavaScript, JSON, AJAX 
 5. Abrir **http://localhost/tp2_prog3/**. No hace falta iniciar `php -S` cuando se usa Apache.
 6. Crear una cuenta desde **Crear una cuenta** e iniciar sesión desde **Iniciar sesión**. No hay cuentas de aplicación predefinidas. Una vez dentro, crear un examen y cargar sus preguntas para realizar un sorteo.
 
+Se utilizó IA para estructurar este archivo README y  en los diseños visuales de las pantallas. 
